@@ -6,9 +6,9 @@ id: sync
 
 支持以下云储存:
 
-- [x] WebDAV
-- [x] 百度网盘
-- [ ] OneDriver
+- [ ] WebDAV
+- [ ] 百度网盘
+- [x] OneDriver
 
 ## 同步
 
